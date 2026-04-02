@@ -47,3 +47,5 @@ The final suspect profile table filled out by the player looks like this:
 | Patti | KX3 | Dipole | Begali Magnum | | Salsa |
 | Ann | FTDX10 | Vertical | | | | |
 | Jess | | | | 1963 | |
+
+Patti is the thief. It remains to be worked out if there is any additional ceremony or recognition upon discovering this, such as using Patti's attributes as combinations to open a lockbox full of BBQ sauce.
