@@ -6,7 +6,7 @@ At 2201 UTC, the BBQ sauce for our club dinner was stolen from the kitchen. Luck
 
 | No. | Time | Location | Copied Text |
 | --- | --- | --- | --- |
-| 1 | | |                                                                                                |
+| 1 | | | |
 | 2 | | | |
 | 3 | | | |
 | 4 | | | |
@@ -35,11 +35,7 @@ Following is the text of the eight recorded clues, to be sent as audible CW from
 - Time: 2103 UTC, Location: CW Tent: WX RAINY = FIRST LICENSED 1979 = ANT HR IS DIPOLE AT 50 FEET = RIG ELECRAFT KX3 = HW CPY?
 - TNX FER CALL = NAME JACKY = WX CLOUDY = RIG PENNTEK TR35 = HW CPY?
 - Time 2201 UTC, Location: kitchen: BENS BEST BENT WIRE/S = BEGALI 4 LIFE BABY = IM TOTES STEALING THIS BBQ SAUCE
-- NAME ANN ANT QUARTER WAVE VERTICAL W 32 RADIALS
-
-Maybe the micros have different buttons for different playback speeds. If not, we can play them all at 5wpm, slow enough to write dits & dahs. 
-These clues could also be obfuscated a little more. Right now, only times and dates necessary for solving are included. 
-The extra info like WX and punctuation vs prosigns also could use further consideration. I'm only familiar with POTA exchanges so these are a little clunky.  
+- NAME ANN ANT QUARTER WAVE VERTICAL W 32 RADIALS  
 
 ## Solution
 
