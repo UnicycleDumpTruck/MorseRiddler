@@ -4,8 +4,8 @@ At 2201 UTC, the BBQ sauce for our club dinner was stolen from the kitchen. Luck
 
 ## Copied Clues
 
-| Clue Number | Time | Location | Copied Text |
-| --- | --- | --- | --- |
+| No. | Time | Location | Copied Text |
+| --- | --- | --- | ---------------------------------------------------------------- |
 | 1 | | | |
 | 2 | | | |
 | 3 | | | |
