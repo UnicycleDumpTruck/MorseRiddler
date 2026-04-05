@@ -29,11 +29,11 @@ At 2201 UTC, the BBQ sauce for our club dinner was stolen from the kitchen. Luck
 
 | NAME | RIG | ANTenna | PADDLE | FIRST LICENSED | Dance |
 | ---- | --- | ------- | ------ | -------------- | ----- |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
+| ANN | | | | | |
+| DIANE | | | | | |
+| JACKY | | | | | |
+| JESS| | | | | |
+| PATTI | | | | | |
 
 ## Clue Text
 
