@@ -27,17 +27,17 @@ At 22:01 UTC, the BBQ sauce for our club dinner was stolen from the kitchen. Luc
 
 ## Suspect Profiles
 
-| NAME | RIG | ANTenna | PADDLE | FIRST LICENSED | Dance |
-| ---- | --- | ------- | ------ | -------------- | ----- |
-| ANN   | | | | | |
-| DIANE | | | | | |
-| JACKY | | | | | |
-| JESS  | | | | | |
-| PATTI | | | | | |
+| NAME | RIG | ANTenna | PADDLE | FIRST LICENSED |
+| ---- | --- | ------- | ------ | -------------- |
+| ANN   | | | | |
+| DIANE | | | | |
+| JACKY | | | | |
+| JESS  | | | | |
+| PATTI | | | | |
 
 ## Clue Text
 
-Following is the text of the eight recorded clues, to be sent as audible CW from 8 different microcontrollers-with-piezos spread around the site. Each will have a paper "Evidence Tag" and some or all of the tags will have timestamps from the recordings.
+Following is the text of the eight recorded clues, to be sent as audible CW from 8 different microcontrollers-with-piezos spread around the site. Each will have a paper "Evidence Tag" with it's clue number, time recorded, etc.
 - IM USING BEGALI PADDLE = ANT DIPOLE AT 50 FT
 - NAME DIANE = RIG YAESU FT-817 WITH BENCHER PADDLE
 - NAME PATTI = FIRST LICENSED 1979
