@@ -6,11 +6,11 @@ At 22:01 UTC, the BBQ sauce for our club dinner was stolen from the kitchen. Luc
 
 ## Glossary of Prosigns and Abbreviations
 
-- = or BT: Separator like comma or period
-- RIG: THe radio they are using
-- ANT: The antenna they are using, often followed by the height at which it's installed
-- PADDLE: What brand of paddle they are using to send CW
-- FIRST LICENSED or YEAR LICENSED or LICENSED: The year they first got their amateur radio license
+- = or BT is a separator like comma or period
+- RIG is the radio they are using
+- ANT is the antenna they are using, sometimes followed by the height at which it's installed
+- PADDLE is brand of paddle they are using to send CW
+- FIRST LICENSED or YEAR LICENSED or LICENSED is the year that they first got their amateur radio license
 
 ## Copied Clues
 
