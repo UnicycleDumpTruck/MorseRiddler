@@ -40,8 +40,8 @@ At 22:01 UTC, the BBQ sauce for our club dinner was stolen from the kitchen. Luc
 Following is the text of the eight recorded clues, to be sent as audible CW from 8 different microcontrollers-with-piezos spread around the site. Each will have a paper "Evidence Tag" with it's clue number, time recorded, etc.
 - IM USING BEGALI PADDLE = ANT DIPOLE AT 50 FT
 - NAME DIANE = RIG YAESU FT-817 WITH BENCHER PADDLE
-- NAME PATTI = FIRST LICENSED 1979
-- I WAS FIRST LICENSED 1963 = NAME JESS
+- NAME PATTI = WX SUNNY
+- I WAS FIRST LICENSED 1963 = NAME JESS = ANT EFHW
 - ANT HR IS DIPOLE AT 50 FEET = RIG ELECRAFT KX3
 - NAME JACKY = RIG PENNTEK TR35
 - NO ONE WILL LOOK BEHIND A GENERATOR FOR BBQ SAUCE = BEGALI 4 LIFE BABY
