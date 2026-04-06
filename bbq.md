@@ -35,17 +35,17 @@ At 22:01 UTC, the BBQ sauce for our club dinner was stolen from the kitchen. Luc
 
 ## Clue Text
 
-Following is the text of the recorded clues, to be sent as audible CW from 8 different microcontrollers-with-piezos spread around the site. Each will have a paper "Evidence Tag" with it's clue number, time recorded, etc.
-- IM USING BEGALI PADDLE = ANT DIPOLE AT 50 FT
-- NAME DIANE = RIG YAESU FT-817 WITH BENCHER PADDLE
+Following is the text of the recorded clues, to be sent as audible CW from seven different microcontrollers-with-piezos spread around the site. Each will have a paper "Evidence Tag" with it's clue number, time recorded, etc.
+- USING BEGALI PADDLE = ANT DIPOLE
+- NAME DIANE = RIG FT-817 WITH BENCHER PADDLE
 - NAME JESS = ANT EFHW
-- ANT HR IS DIPOLE AT 50 FEET = RIG ELECRAFT KX3
+- ANT DIPOLE = RIG ELECRAFT KX3
 - NAME JACKY = RIG PENNTEK TR35
-- NO ONE WILL LOOK BY A GENERATOR FOR BBQ SAUCE = BEGALI 4 LIFE BABY
-- NAME ANN = ANT IS QUARTER WAVE VERTICAL
+- GENERATOR HIDES BBQ SAUCE = BEGALI 4 LIFE
+- NAME ANN = ANT IS VERTICAL
 
 ## End Game
-Behind one of the generators on site will be a tool box that is locked by multiple text combination locks. Each lock will have a label on it that corresponds to an attribute of the perpetrator, such as rig, antenna, paddle, year. The perpetrator's name is in a separate document to preserve ignorance for folks who wish to solve it to test difficulty.
+Behind one of the generators on site will be a tool box that is locked by multiple text combination locks. Each lock will have a label on it that corresponds to an attribute of the perpetrator, such as rig, antenna, paddle. Inside the box will be some bottles of BBQ sauce and a congratulatory note. Multiple people can be solving the mystery concurrently, but it may be wise to instruct players to alert et the facilitator when they have the name of the perpetrator and the suspected sauce location. If the facilitator is free, they can ensure that the lockbox is left in a state ready for the next solve.
 
 ## Difficulty Levels
-In order to provide an game accessible to folks without little or no CW experience, the clues have been kept very short and the details about the suspects provided are the minimum necessary for a solution. The sending speed of the clues should start out slow, like 5wpm, which is slow enough to write dits and dahs and look them up later. We could program the microcontrollers to have multiple sets of speeds, so you when you find an "Evidence Player", you can select what WPM your clues play at. There would also be an option to have the faster sets of clues include more traditional CW scene setting (TNX FOR FB QSO, WX SUNNY) and unnecessary attributes for the innocent suspects.
+In order to provide an game accessible to folks without little or no CW experience, the clues have been kept very short and the details about the suspects provided are the minimum necessary for a solution. The sending speed of the clues should start out slow, like 5wpm, which is slow enough to write dits and dahs and look them up later. We could program the microcontrollers to have multiple sets of speeds, so you when you find an "Evidence Player", you can select what WPM your clues play at. There would also be an option to have the faster sets of clues include more traditional CW scene setting (TNX FOR FB QSO, WX SUNNY) and unnecessary attributes for the innocent suspects. If audio players are used instead of microcontrollers, there could be an option for a SSB version of each clue, too. This could be helpful for beginners that want to copy a few CW clues but aren't feeling ambitious enough for all seven.
