@@ -40,7 +40,7 @@ Following is the text of the recorded clues, to be sent as audible CW from seven
 - NAME DIANE = RIG FT-817
 - NAME JESS = ANT EFHW
 - ANT DIPOLE = RIG ELECRAFT KX3
-- NAME JACKY = RIG PENNTEK TR35
+- NAME JACKY = PADDLE BENCHER
 - GENERATOR HIDES BBQ SAUCE = BEGALI 4 LIFE
 - NAME ANN = ANT IS VERTICAL
 
