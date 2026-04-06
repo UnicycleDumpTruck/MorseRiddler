@@ -5,7 +5,7 @@
 The final suspect profile table filled out by the player looks like this:
 | Name/Call | Rig | Antenna | Paddle |
 | --------- | --- | ------- | ------ |
-| Jacky | TR35 | | |
+| Jacky | | | BENCHER |
 | Diane | FT817 | | |
 | Patti | KX3 | Dipole | Begali |
 | Ann | | Vertical | | |
