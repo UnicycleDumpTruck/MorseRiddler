@@ -36,13 +36,13 @@ At 22:01 UTC, the BBQ sauce for our club dinner was stolen from the kitchen. Luc
 ## Clue Text
 
 Following is the text of the recorded clues, to be sent as audible CW from seven different microcontrollers-with-piezos spread around the site. Each will have a paper "Evidence Tag" with it's clue number, time recorded, etc.
-- USING BEGALI PADDLE = ANT DIPOLE
-- NAME DIANE = RIG FT-817
-- NAME JESS = ANT EFHW
-- ANT DIPOLE = RIG ELECRAFT KX3
-- NAME JACKY = PADDLE BENCHER
-- GENERATOR HIDES BBQ SAUCE = BEGALI 4 LIFE
-- NAME ANN = ANT IS VERTICAL
+1. USING BEGALI PADDLE = ANT DIPOLE
+2. NAME DIANE = RIG FT-817
+3. NAME JESS = ANT EFHW
+4. ANT DIPOLE = RIG ELECRAFT KX3
+5. NAME JACKY = PADDLE BENCHER
+6. GENERATOR HIDES BBQ SAUCE = BEGALI 4 LIFE
+7. NAME ANN = ANT IS VERTICAL
 
 ## End Game
 Behind one of the generators on site will be a tool box that is locked by multiple text combination locks. Each lock will have a label on it that corresponds to an attribute of the perpetrator, such as rig, antenna, paddle. Inside the box will be some bottles of BBQ sauce and a congratulatory note. Multiple people can be solving the mystery concurrently, but it may be wise to instruct players to alert et the facilitator when they have the name of the perpetrator and the suspected sauce location. If the facilitator is free, they can ensure that the lockbox is left in a state ready for the next solve.
