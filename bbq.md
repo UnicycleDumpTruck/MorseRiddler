@@ -37,7 +37,7 @@ At 22:01 UTC, the BBQ sauce for our club dinner was stolen from the kitchen. Luc
 
 Following is the text of the recorded clues, to be sent as audible CW from seven different microcontrollers-with-piezos spread around the site. Each will have a paper "Evidence Tag" with it's clue number, time recorded, etc.
 - USING BEGALI PADDLE = ANT DIPOLE
-- NAME DIANE = RIG FT-817 WITH BENCHER PADDLE
+- NAME DIANE = RIG FT-817
 - NAME JESS = ANT EFHW
 - ANT DIPOLE = RIG ELECRAFT KX3
 - NAME JACKY = RIG PENNTEK TR35
